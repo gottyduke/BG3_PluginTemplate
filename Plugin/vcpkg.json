@@ -7,7 +7,6 @@
         "spdlog",
         "nlohmann-json",
         "simpleini",
-        "tomlplusplus",
         "xbyak"
     ]
 }
